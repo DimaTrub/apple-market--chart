@@ -1,0 +1,14 @@
+
+.MuiPaper-root {
+
+    position: relative !important;
+}
+
+.makeStyles-root-1 {
+    width: 80%;
+    height:100%;
+}
+.MuiTabs-flexContainer{
+    text-align: center;
+    justify-content: space-around;
+}

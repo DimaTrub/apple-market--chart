@@ -1,0 +1,24 @@
+.app_body {
+  
+  display: grid;
+  place-items: center;
+  height: 70vh;
+ 
+}
+
+
+.app_header {
+  
+  display: grid;
+  text-align: center;
+  justify-content: space-around;
+  padding-top: 50px;
+ 
+}
+.app_footer {
+  
+  display: grid;
+  text-align: right;
+  padding: 10px 10px;
+ 
+}
